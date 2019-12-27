@@ -1,2 +1,4 @@
 # web_scrap
-html scraper via BS
+My first html scraper via BeautifulSoup
+
+Now added wiki api code samples scraper. XD so lazy =)
